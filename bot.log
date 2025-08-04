@@ -1,0 +1,407 @@
+2025-08-04 12:18:19,053 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:18:19,056 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:18:19,056 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:18:21,857 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:18:21,857 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:18:21,857 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:18:21,858 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:18:21,910 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:18:40,609 - database - INFO - 👤 Пользователь 164406794 добавлен
+2025-08-04 12:18:40,609 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 12:18:40,792 - aiogram.event - INFO - Update id=227231261 is handled. Duration 188 ms by bot id=8331842843
+2025-08-04 12:18:47,492 - database - INFO - 📝 Создан список 'Основной список' для пользователя 164406794
+2025-08-04 12:18:47,821 - aiogram.event - INFO - Update id=227231262 is handled. Duration 334 ms by bot id=8331842843
+2025-08-04 12:18:54,380 - aiogram.event - INFO - Update id=227231263 is handled. Duration 143 ms by bot id=8331842843
+2025-08-04 12:18:56,531 - aiogram.event - INFO - Update id=227231264 is handled. Duration 254 ms by bot id=8331842843
+2025-08-04 12:19:00,624 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: Привет!...
+2025-08-04 12:19:00,885 - handlers.ai_assistant - ERROR - ❌ Ошибка при работе с AI: catching classes that do not inherit from BaseException is not allowed
+2025-08-04 12:19:00,973 - aiogram.event - INFO - Update id=227231265 is handled. Duration 406 ms by bot id=8331842843
+2025-08-04 12:20:12,320 - aiogram.event - INFO - Update id=227231266 is handled. Duration 233 ms by bot id=8331842843
+2025-08-04 12:20:14,430 - aiogram.event - INFO - Update id=227231267 is handled. Duration 170 ms by bot id=8331842843
+2025-08-04 12:20:18,008 - aiogram.event - INFO - Update id=227231268 is handled. Duration 210 ms by bot id=8331842843
+2025-08-04 12:20:27,528 - aiogram.event - INFO - Update id=227231269 is handled. Duration 0 ms by bot id=8331842843
+2025-08-04 12:20:40,861 - aiogram.event - INFO - Update id=227231270 is not handled. Duration 1 ms by bot id=8331842843
+2025-08-04 12:21:02,399 - aiogram.event - INFO - Update id=227231271 is not handled. Duration 1 ms by bot id=8331842843
+2025-08-04 12:21:56,880 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 12:21:56,955 - aiogram.event - INFO - Update id=227231272 is handled. Duration 78 ms by bot id=8331842843
+2025-08-04 12:21:59,022 - aiogram.event - INFO - Update id=227231273 is handled. Duration 309 ms by bot id=8331842843
+2025-08-04 12:22:03,187 - aiogram.event - INFO - Update id=227231274 is handled. Duration 234 ms by bot id=8331842843
+2025-08-04 12:22:07,328 - aiogram.event - INFO - Update id=227231275 is handled. Duration 0 ms by bot id=8331842843
+2025-08-04 12:22:12,652 - aiogram.event - INFO - Update id=227231276 is not handled. Duration 1 ms by bot id=8331842843
+2025-08-04 12:22:14,616 - aiogram.event - INFO - Update id=227231277 is not handled. Duration 0 ms by bot id=8331842843
+2025-08-04 12:22:19,578 - aiogram.event - INFO - Update id=227231278 is not handled. Duration 0 ms by bot id=8331842843
+2025-08-04 12:24:14,128 - database - INFO - 👤 Пользователь 835640886 добавлен
+2025-08-04 12:24:14,129 - handlers.start - INFO - 👋 Пользователь 835640886 (Юлия) запустил бота
+2025-08-04 12:24:14,215 - aiogram.event - INFO - Update id=227231279 is handled. Duration 95 ms by bot id=8331842843
+2025-08-04 12:25:20,025 - aiogram.event - INFO - Update id=227231280 is handled. Duration 163 ms by bot id=8331842843
+2025-08-04 12:25:50,408 - aiogram.event - INFO - Update id=227231281 is handled. Duration 1 ms by bot id=8331842843
+2025-08-04 12:26:55,102 - aiogram.event - INFO - Update id=227231282 is not handled. Duration 1 ms by bot id=8331842843
+2025-08-04 12:30:21,792 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 12:30:21,794 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:30:21,794 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 12:30:22,049 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 12:30:25,080 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:30:25,081 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:30:25,081 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:30:25,293 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:30:25,293 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:30:25,294 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:30:25,294 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:30:25,342 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:30:52,799 - database - INFO - 👤 Пользователь 164406794 добавлен
+2025-08-04 12:30:52,800 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 12:30:53,016 - aiogram.event - INFO - Update id=227231283 is handled. Duration 222 ms by bot id=8331842843
+2025-08-04 12:30:55,927 - aiogram.event - INFO - Update id=227231284 is handled. Duration 139 ms by bot id=8331842843
+2025-08-04 12:31:03,780 - database - INFO - 📝 Создан список 'Основной список' для пользователя 164406794
+2025-08-04 12:31:03,781 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: Привет...
+2025-08-04 12:31:04,040 - utils.perplexity_client - ERROR - ❌ Ошибка сети при обращении к AI: Cannot connect to host api.perplexity.ai:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)')]
+2025-08-04 12:31:04,144 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:31:04,144 - aiogram.event - INFO - Update id=227231285 is handled. Duration 446 ms by bot id=8331842843
+2025-08-04 12:31:20,076 - aiogram.event - INFO - Update id=227231286 is handled. Duration 130 ms by bot id=8331842843
+2025-08-04 12:31:21,385 - aiogram.event - INFO - Update id=227231287 is handled. Duration 134 ms by bot id=8331842843
+2025-08-04 12:31:22,620 - aiogram.event - INFO - Update id=227231288 is handled. Duration 122 ms by bot id=8331842843
+2025-08-04 12:31:30,728 - aiogram.event - INFO - Update id=227231289 is handled. Duration 0 ms by bot id=8331842843
+2025-08-04 12:31:36,479 - aiogram.event - INFO - Update id=227231290 is not handled. Duration 1 ms by bot id=8331842843
+2025-08-04 12:31:42,701 - aiogram.event - INFO - Update id=227231291 is not handled. Duration 0 ms by bot id=8331842843
+2025-08-04 12:34:28,427 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 12:34:28,431 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:34:28,431 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 12:34:28,688 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 12:34:32,177 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:34:32,181 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:34:32,181 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:34:32,327 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:34:32,327 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:34:32,420 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:34:32,421 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:34:32,465 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:35:18,081 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 12:35:18,337 - aiogram.event - INFO - Update id=227231292 is handled. Duration 260 ms by bot id=8331842843
+2025-08-04 12:35:21,867 - aiogram.event - INFO - Update id=227231293 is handled. Duration 281 ms by bot id=8331842843
+2025-08-04 12:35:24,925 - aiogram.event - INFO - Update id=227231294 is handled. Duration 196 ms by bot id=8331842843
+2025-08-04 12:35:28,154 - aiogram.event - INFO - Update id=227231295 is handled. Duration 0 ms by bot id=8331842843
+2025-08-04 12:35:36,869 - handlers.common - INFO - 📨 Необработанное сообщение от 164406794: ContentType.TEXT
+2025-08-04 12:35:36,957 - aiogram.event - INFO - Update id=227231296 is handled. Duration 88 ms by bot id=8331842843
+2025-08-04 12:35:38,532 - aiogram.event - INFO - Update id=227231297 is handled. Duration 144 ms by bot id=8331842843
+2025-08-04 12:35:48,060 - aiogram.event - INFO - Update id=227231298 is handled. Duration 420 ms by bot id=8331842843
+2025-08-04 12:35:49,043 - aiogram.event - INFO - Update id=227231299 is handled. Duration 165 ms by bot id=8331842843
+2025-08-04 12:35:53,132 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: привет...
+2025-08-04 12:35:53,394 - utils.perplexity_client - ERROR - ❌ Ошибка Perplexity API: 400
+2025-08-04 12:35:53,474 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:35:53,474 - aiogram.event - INFO - Update id=227231300 is handled. Duration 415 ms by bot id=8331842843
+2025-08-04 12:38:51,363 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 12:38:51,366 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:38:51,367 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 12:38:51,625 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 12:39:28,203 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:39:28,207 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:39:28,207 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:39:28,428 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:39:28,428 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:39:28,488 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:39:28,489 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:39:28,539 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:39:35,846 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 12:39:36,124 - aiogram.event - INFO - Update id=227231301 is handled. Duration 280 ms by bot id=8331842843
+2025-08-04 12:39:37,656 - handlers.shopping_list - INFO - 📋 Загружено 0 продуктов для пользователя 164406794
+2025-08-04 12:39:37,855 - aiogram.event - INFO - Update id=227231302 is handled. Duration 203 ms by bot id=8331842843
+2025-08-04 12:39:42,718 - handlers.shopping_list - INFO - 📋 Загружено 0 продуктов для пользователя 164406794
+2025-08-04 12:39:42,933 - handlers.shopping_list - ERROR - ❌ Ошибка при просмотре списка: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-08-04 12:39:43,150 - aiogram.event - INFO - Update id=227231303 is handled. Duration 437 ms by bot id=8331842843
+2025-08-04 12:39:51,514 - aiogram.event - INFO - Update id=227231304 is handled. Duration 233 ms by bot id=8331842843
+2025-08-04 12:39:54,267 - database - INFO - ➕ Добавлен продукт: Молоко (1)
+2025-08-04 12:39:54,267 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Молоко (1) для пользователя 164406794
+2025-08-04 12:39:54,434 - aiogram.event - INFO - Update id=227231305 is handled. Duration 173 ms by bot id=8331842843
+2025-08-04 12:39:57,402 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 12:39:57,629 - aiogram.event - INFO - Update id=227231306 is handled. Duration 231 ms by bot id=8331842843
+2025-08-04 12:40:04,001 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 12:40:04,077 - handlers.shopping_list - ERROR - ❌ Ошибка при просмотре списка: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-08-04 12:40:04,136 - aiogram.event - INFO - Update id=227231307 is handled. Duration 139 ms by bot id=8331842843
+2025-08-04 12:40:11,866 - handlers.common - INFO - 📩 Пользователь 164406794 отправил: Хлеб
+2025-08-04 12:40:11,948 - aiogram.event - INFO - Update id=227231308 is handled. Duration 84 ms by bot id=8331842843
+2025-08-04 12:40:16,036 - aiogram.event - INFO - Update id=227231309 is handled. Duration 148 ms by bot id=8331842843
+2025-08-04 12:40:19,101 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: привет...
+2025-08-04 12:40:19,135 - utils.perplexity_client - INFO - 🔗 Отправляем запрос к Perplexity API...
+2025-08-04 12:40:19,468 - utils.perplexity_client - INFO - 📡 Perplexity ответ: статус 400
+2025-08-04 12:40:19,468 - utils.perplexity_client - ERROR - ❌ Ошибка API: 400 - {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-online'. Permitted models can be found in the documentation at https://docs.perplexity.ai/guides/model-cards.","type":"invalid_model","co
+2025-08-04 12:40:19,608 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:40:19,608 - aiogram.event - INFO - Update id=227231310 is handled. Duration 643 ms by bot id=8331842843
+2025-08-04 12:42:57,728 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 12:42:57,730 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:42:57,730 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 12:42:57,984 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 12:43:00,630 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:43:00,631 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:43:00,631 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:43:00,841 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:43:00,841 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:43:00,966 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:43:00,967 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:43:01,015 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:43:07,019 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 12:43:07,207 - aiogram.event - INFO - Update id=227231311 is handled. Duration 190 ms by bot id=8331842843
+2025-08-04 12:43:08,401 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 12:43:08,536 - aiogram.event - INFO - Update id=227231312 is handled. Duration 140 ms by bot id=8331842843
+2025-08-04 12:43:10,827 - database - INFO - 🧹 Удалено 0 купленных товаров
+2025-08-04 12:43:10,944 - aiogram.event - INFO - Update id=227231313 is handled. Duration 120 ms by bot id=8331842843
+2025-08-04 12:43:14,532 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 12:43:14,595 - handlers.shopping_list - ERROR - ❌ Ошибка при просмотре списка: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-08-04 12:43:14,743 - aiogram.event - INFO - Update id=227231314 is handled. Duration 214 ms by bot id=8331842843
+2025-08-04 12:43:22,627 - aiogram.event - INFO - Update id=227231315 is handled. Duration 130 ms by bot id=8331842843
+2025-08-04 12:43:27,719 - database - INFO - ➕ Добавлен продукт: Помидоры 2 (штуки)
+2025-08-04 12:43:27,719 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Помидоры 2 (штуки) для пользователя 164406794
+2025-08-04 12:43:27,797 - aiogram.event - INFO - Update id=227231316 is handled. Duration 83 ms by bot id=8331842843
+2025-08-04 12:43:32,450 - handlers.common - INFO - 📩 Пользователь 164406794 отправил: молоко 1л
+2025-08-04 12:43:32,535 - aiogram.event - INFO - Update id=227231317 is handled. Duration 86 ms by bot id=8331842843
+2025-08-04 12:43:38,476 - aiogram.event - INFO - Update id=227231318 is handled. Duration 123 ms by bot id=8331842843
+2025-08-04 12:43:41,615 - database - INFO - ➕ Добавлен продукт: молоко (1л)
+2025-08-04 12:43:41,616 - handlers.shopping_list - INFO - ➕ Продукт добавлен: молоко (1л) для пользователя 164406794
+2025-08-04 12:43:41,686 - aiogram.event - INFO - Update id=227231319 is handled. Duration 76 ms by bot id=8331842843
+2025-08-04 12:43:44,209 - handlers.shopping_list - INFO - 📋 Загружено 3 продуктов для пользователя 164406794
+2025-08-04 12:43:44,444 - aiogram.event - INFO - Update id=227231320 is handled. Duration 238 ms by bot id=8331842843
+2025-08-04 12:43:47,530 - handlers.shopping_list - INFO - 📋 Загружено 3 продуктов для пользователя 164406794
+2025-08-04 12:43:47,676 - handlers.shopping_list - ERROR - ❌ Ошибка при просмотре списка: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-08-04 12:43:47,938 - aiogram.event - INFO - Update id=227231321 is handled. Duration 411 ms by bot id=8331842843
+2025-08-04 12:43:51,142 - aiogram.event - INFO - Update id=227231322 is handled. Duration 185 ms by bot id=8331842843
+2025-08-04 12:43:53,865 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: привет...
+2025-08-04 12:43:53,894 - utils.perplexity_client - INFO - 🔗 Отправляем запрос к Perplexity API...
+2025-08-04 12:43:54,156 - utils.perplexity_client - INFO - 📡 Perplexity ответ: статус 400
+2025-08-04 12:43:54,156 - utils.perplexity_client - ERROR - ❌ Ошибка API: 400 - {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-chat'. Permitted models can be found in the documentation at https://docs.perplexity.ai/guides/model-cards.","type":"invalid_model","code
+2025-08-04 12:43:54,287 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:43:54,288 - aiogram.event - INFO - Update id=227231323 is handled. Duration 525 ms by bot id=8331842843
+2025-08-04 12:43:57,722 - aiogram.event - INFO - Update id=227231324 is handled. Duration 287 ms by bot id=8331842843
+2025-08-04 12:44:00,070 - database - INFO - 🧹 Удалено 0 купленных товаров
+2025-08-04 12:44:00,160 - aiogram.event - INFO - Update id=227231325 is handled. Duration 94 ms by bot id=8331842843
+2025-08-04 12:49:26,040 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 12:49:26,044 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:49:26,044 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 12:49:26,303 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 12:49:29,901 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:49:29,904 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:49:29,904 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:49:30,123 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:49:30,126 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:49:30,246 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:49:30,246 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:49:30,295 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:49:41,910 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 12:49:42,133 - aiogram.event - INFO - Update id=227231326 is handled. Duration 226 ms by bot id=8331842843
+2025-08-04 12:49:43,548 - aiogram.event - INFO - Update id=227231327 is handled. Duration 139 ms by bot id=8331842843
+2025-08-04 12:49:47,158 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: Привет...
+2025-08-04 12:49:47,178 - utils.perplexity_client - INFO - 🔗 Отправляем запрос к Perplexity API...
+2025-08-04 12:49:47,503 - utils.perplexity_client - INFO - 📡 Perplexity ответ: статус 400
+2025-08-04 12:49:47,504 - utils.perplexity_client - ERROR - ❌ Ошибка API: 400 - {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-online'. Permitted models can be found in the documentation at https://docs.perplexity.ai/guides/model-cards.","type":"invalid_model","co
+2025-08-04 12:49:47,629 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:49:47,629 - aiogram.event - INFO - Update id=227231328 is handled. Duration 540 ms by bot id=8331842843
+2025-08-04 12:49:56,062 - handlers.common - INFO - 📩 Пользователь 164406794 отправил: Привет
+2025-08-04 12:49:56,178 - aiogram.event - INFO - Update id=227231329 is handled. Duration 117 ms by bot id=8331842843
+2025-08-04 12:50:00,340 - handlers.shopping_list - INFO - 📋 Загружено 3 продуктов для пользователя 164406794
+2025-08-04 12:50:00,479 - aiogram.event - INFO - Update id=227231330 is handled. Duration 144 ms by bot id=8331842843
+2025-08-04 12:50:02,375 - database - INFO - 🧹 Удалено 0 купленных товаров
+2025-08-04 12:50:02,428 - aiogram.event - INFO - Update id=227231331 is handled. Duration 57 ms by bot id=8331842843
+2025-08-04 12:50:06,880 - aiogram.event - INFO - Update id=227231332 is handled. Duration 319 ms by bot id=8331842843
+2025-08-04 12:50:08,231 - database - INFO - 🗑 Удален продукт 11
+2025-08-04 12:50:08,426 - aiogram.event - INFO - Update id=227231333 is handled. Duration 199 ms by bot id=8331842843
+2025-08-04 12:50:09,671 - database - INFO - 🗑 Удален продукт 10
+2025-08-04 12:50:09,951 - aiogram.event - INFO - Update id=227231334 is handled. Duration 285 ms by bot id=8331842843
+2025-08-04 12:50:11,143 - database - INFO - 🗑 Удален продукт 9
+2025-08-04 12:50:11,342 - aiogram.event - INFO - Update id=227231335 is handled. Duration 204 ms by bot id=8331842843
+2025-08-04 12:50:12,972 - aiogram.event - INFO - Update id=227231336 is handled. Duration 120 ms by bot id=8331842843
+2025-08-04 12:50:17,249 - database - INFO - ➕ Добавлен продукт: Сахар (1 кг)
+2025-08-04 12:50:17,249 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Сахар (1 кг) для пользователя 164406794
+2025-08-04 12:50:17,349 - aiogram.event - INFO - Update id=227231337 is handled. Duration 103 ms by bot id=8331842843
+2025-08-04 12:50:22,773 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 12:50:22,903 - aiogram.event - INFO - Update id=227231338 is handled. Duration 134 ms by bot id=8331842843
+2025-08-04 12:50:25,934 - aiogram.event - INFO - Update id=227231339 is handled. Duration 128 ms by bot id=8331842843
+2025-08-04 12:50:27,850 - aiogram.event - INFO - Update id=227231340 is handled. Duration 351 ms by bot id=8331842843
+2025-08-04 12:50:36,605 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: Привет...
+2025-08-04 12:50:36,606 - utils.perplexity_client - INFO - 🔗 Отправляем запрос к Perplexity API...
+2025-08-04 12:50:37,044 - utils.perplexity_client - INFO - 📡 Perplexity ответ: статус 400
+2025-08-04 12:50:37,044 - utils.perplexity_client - ERROR - ❌ Ошибка API: 400 - {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-online'. Permitted models can be found in the documentation at https://docs.perplexity.ai/guides/model-cards.","type":"invalid_model","co
+2025-08-04 12:50:37,117 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:50:37,118 - aiogram.event - INFO - Update id=227231341 is handled. Duration 587 ms by bot id=8331842843
+2025-08-04 12:51:33,944 - aiogram.event - INFO - Update id=227231342 is handled. Duration 232 ms by bot id=8331842843
+2025-08-04 12:51:34,913 - aiogram.event - INFO - Update id=227231343 is handled. Duration 229 ms by bot id=8331842843
+2025-08-04 12:51:43,680 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: Покажи мой список продуктов...
+2025-08-04 12:51:43,680 - utils.perplexity_client - INFO - 🔗 Отправляем запрос к Perplexity API...
+2025-08-04 12:51:43,985 - utils.perplexity_client - INFO - 📡 Perplexity ответ: статус 400
+2025-08-04 12:51:43,985 - utils.perplexity_client - ERROR - ❌ Ошибка API: 400 - {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-online'. Permitted models can be found in the documentation at https://docs.perplexity.ai/guides/model-cards.","type":"invalid_model","co
+2025-08-04 12:51:44,134 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:51:44,134 - aiogram.event - INFO - Update id=227231344 is handled. Duration 661 ms by bot id=8331842843
+2025-08-04 12:52:21,458 - aiogram.event - INFO - Update id=227231345 is handled. Duration 397 ms by bot id=8331842843
+2025-08-04 12:52:22,283 - aiogram.event - INFO - Update id=227231346 is handled. Duration 170 ms by bot id=8331842843
+2025-08-04 12:52:25,629 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: привет...
+2025-08-04 12:52:25,629 - utils.perplexity_client - INFO - 🔗 Отправляем запрос к Perplexity API...
+2025-08-04 12:52:26,826 - utils.perplexity_client - INFO - 📡 Perplexity ответ: статус 400
+2025-08-04 12:52:26,826 - utils.perplexity_client - ERROR - ❌ Ошибка API: 400 - {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-online'. Permitted models can be found in the documentation at https://docs.perplexity.ai/guides/model-cards.","type":"invalid_model","co
+2025-08-04 12:52:27,014 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:52:27,015 - aiogram.event - INFO - Update id=227231347 is handled. Duration 1604 ms by bot id=8331842843
+2025-08-04 12:52:50,221 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 12:52:50,222 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:52:50,222 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 12:52:50,475 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 12:52:53,095 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:52:53,095 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:52:53,096 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:52:53,298 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:52:53,298 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:52:53,426 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:52:53,426 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:52:53,477 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:52:56,139 - aiogram.event - INFO - Update id=227231348 is handled. Duration 283 ms by bot id=8331842843
+2025-08-04 12:52:57,259 - aiogram.event - INFO - Update id=227231349 is handled. Duration 143 ms by bot id=8331842843
+2025-08-04 12:52:59,696 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: привет...
+2025-08-04 12:52:59,718 - utils.perplexity_client - INFO - 🔗 Отправляем запрос к Perplexity API...
+2025-08-04 12:52:59,970 - utils.perplexity_client - INFO - 📡 Perplexity ответ: статус 400
+2025-08-04 12:52:59,971 - utils.perplexity_client - ERROR - ❌ Ошибка API: 400 - {"error":{"message":"Invalid model 'llama-3.1-sonar-small-chat'. Permitted models can be found in the documentation at https://docs.perplexity.ai/guides/model-cards.","type":"invalid_model","code":400
+2025-08-04 12:53:00,052 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:53:00,053 - aiogram.event - INFO - Update id=227231350 is handled. Duration 438 ms by bot id=8331842843
+2025-08-04 12:54:29,078 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 12:54:29,080 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:54:29,080 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 12:54:29,334 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 12:54:32,819 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:54:32,822 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:54:32,822 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:54:33,000 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:54:33,000 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:54:33,058 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:54:33,058 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:54:33,107 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:54:40,080 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 12:54:40,278 - aiogram.event - INFO - Update id=227231351 is handled. Duration 204 ms by bot id=8331842843
+2025-08-04 12:54:42,396 - aiogram.event - INFO - Update id=227231352 is handled. Duration 135 ms by bot id=8331842843
+2025-08-04 12:54:46,271 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: привет...
+2025-08-04 12:54:46,294 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-sonar-small-128k-online
+2025-08-04 12:54:46,564 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-sonar-small-128k-online: статус 400
+2025-08-04 12:54:46,564 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-sonar-small-128k-online не поддерживается, пробуем следующую...
+2025-08-04 12:54:46,564 - utils.perplexity_client - INFO - 🔗 Пробуем модель: gpt-4o-mini
+2025-08-04 12:54:46,712 - utils.perplexity_client - INFO - 📡 Perplexity ответ для gpt-4o-mini: статус 400
+2025-08-04 12:54:46,712 - utils.perplexity_client - WARNING - ⚠️ Модель gpt-4o-mini не поддерживается, пробуем следующую...
+2025-08-04 12:54:46,713 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-8b-instruct
+2025-08-04 12:54:46,865 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-8b-instruct: статус 400
+2025-08-04 12:54:46,866 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-8b-instruct не поддерживается, пробуем следующую...
+2025-08-04 12:54:46,866 - utils.perplexity_client - INFO - 🔗 Пробуем модель: mixtral-8x7b-instruct
+2025-08-04 12:54:47,019 - utils.perplexity_client - INFO - 📡 Perplexity ответ для mixtral-8x7b-instruct: статус 400
+2025-08-04 12:54:47,019 - utils.perplexity_client - WARNING - ⚠️ Модель mixtral-8x7b-instruct не поддерживается, пробуем следующую...
+2025-08-04 12:54:47,020 - utils.perplexity_client - ERROR - ❌ Все модели Perplexity недоступны
+2025-08-04 12:54:47,129 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:54:47,130 - aiogram.event - INFO - Update id=227231353 is handled. Duration 950 ms by bot id=8331842843
+2025-08-04 12:55:49,725 - aiogram.event - INFO - Update id=227231354 is handled. Duration 262 ms by bot id=8331842843
+2025-08-04 12:55:50,745 - aiogram.event - INFO - Update id=227231355 is handled. Duration 380 ms by bot id=8331842843
+2025-08-04 12:55:52,747 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: 123...
+2025-08-04 12:55:52,748 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-sonar-small-128k-online
+2025-08-04 12:55:53,132 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-sonar-small-128k-online: статус 400
+2025-08-04 12:55:53,132 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-sonar-small-128k-online не поддерживается, пробуем следующую...
+2025-08-04 12:55:53,132 - utils.perplexity_client - INFO - 🔗 Пробуем модель: gpt-4o-mini
+2025-08-04 12:55:53,315 - utils.perplexity_client - INFO - 📡 Perplexity ответ для gpt-4o-mini: статус 400
+2025-08-04 12:55:53,315 - utils.perplexity_client - WARNING - ⚠️ Модель gpt-4o-mini не поддерживается, пробуем следующую...
+2025-08-04 12:55:53,315 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-8b-instruct
+2025-08-04 12:55:53,495 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-8b-instruct: статус 400
+2025-08-04 12:55:53,495 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-8b-instruct не поддерживается, пробуем следующую...
+2025-08-04 12:55:53,495 - utils.perplexity_client - INFO - 🔗 Пробуем модель: mixtral-8x7b-instruct
+2025-08-04 12:55:53,663 - utils.perplexity_client - INFO - 📡 Perplexity ответ для mixtral-8x7b-instruct: статус 400
+2025-08-04 12:55:53,663 - utils.perplexity_client - WARNING - ⚠️ Модель mixtral-8x7b-instruct не поддерживается, пробуем следующую...
+2025-08-04 12:55:53,663 - utils.perplexity_client - ERROR - ❌ Все модели Perplexity недоступны
+2025-08-04 12:55:53,740 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:55:53,740 - aiogram.event - INFO - Update id=227231356 is handled. Duration 1087 ms by bot id=8331842843
+2025-08-04 12:57:44,929 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 12:57:44,930 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:57:44,930 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 12:57:45,184 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 12:57:48,385 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 12:57:48,386 - database - INFO - ✅ База данных инициализирована
+2025-08-04 12:57:48,386 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 12:57:48,595 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 12:57:48,596 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 12:57:48,671 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 12:57:48,671 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 12:57:48,730 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 12:57:53,729 - aiogram.event - INFO - Update id=227231357 is handled. Duration 331 ms by bot id=8331842843
+2025-08-04 12:57:54,942 - aiogram.event - INFO - Update id=227231358 is handled. Duration 274 ms by bot id=8331842843
+2025-08-04 12:57:57,033 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: 123...
+2025-08-04 12:57:57,330 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-sonar-small-128k-online
+2025-08-04 12:57:57,485 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-sonar-small-128k-online: статус 400
+2025-08-04 12:57:57,485 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-sonar-small-128k-online недоступна, пробуем следующую...
+2025-08-04 12:57:57,486 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-sonar-large-128k-online
+2025-08-04 12:57:57,633 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-sonar-large-128k-online: статус 400
+2025-08-04 12:57:57,633 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-sonar-large-128k-online недоступна, пробуем следующую...
+2025-08-04 12:57:57,633 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-sonar-small-128k-chat
+2025-08-04 12:57:57,800 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-sonar-small-128k-chat: статус 400
+2025-08-04 12:57:57,800 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-sonar-small-128k-chat недоступна, пробуем следующую...
+2025-08-04 12:57:57,800 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-sonar-large-128k-chat
+2025-08-04 12:57:57,952 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-sonar-large-128k-chat: статус 400
+2025-08-04 12:57:57,952 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-sonar-large-128k-chat недоступна, пробуем следующую...
+2025-08-04 12:57:57,952 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-70b-instruct
+2025-08-04 12:57:58,109 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-70b-instruct: статус 400
+2025-08-04 12:57:58,110 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-70b-instruct недоступна, пробуем следующую...
+2025-08-04 12:57:58,110 - utils.perplexity_client - INFO - 🔗 Пробуем модель: llama-3.1-8b-instruct
+2025-08-04 12:57:58,262 - utils.perplexity_client - INFO - 📡 Perplexity ответ для llama-3.1-8b-instruct: статус 400
+2025-08-04 12:57:58,263 - utils.perplexity_client - WARNING - ⚠️ Модель llama-3.1-8b-instruct недоступна, пробуем следующую...
+2025-08-04 12:57:58,263 - utils.perplexity_client - INFO - 🔗 Пробуем модель: mixtral-8x7b-instruct
+2025-08-04 12:57:58,410 - utils.perplexity_client - INFO - 📡 Perplexity ответ для mixtral-8x7b-instruct: статус 400
+2025-08-04 12:57:58,410 - utils.perplexity_client - WARNING - ⚠️ Модель mixtral-8x7b-instruct недоступна, пробуем следующую...
+2025-08-04 12:57:58,410 - utils.perplexity_client - ERROR - ❌ Все модели Perplexity недоступны
+2025-08-04 12:57:58,593 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 12:57:58,593 - aiogram.event - INFO - Update id=227231359 is handled. Duration 1627 ms by bot id=8331842843
+2025-08-04 13:00:13,630 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 13:00:13,633 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:00:13,633 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 13:00:13,894 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 13:00:16,529 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 13:00:16,532 - database - INFO - ✅ База данных инициализирована
+2025-08-04 13:00:16,532 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 13:00:16,689 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 13:00:16,690 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 13:00:16,746 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 13:00:16,747 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 13:00:16,795 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:00:22,444 - aiogram.event - INFO - Update id=227231360 is handled. Duration 1028 ms by bot id=8331842843
+2025-08-04 13:00:22,751 - aiogram.event - INFO - Update id=227231361 is handled. Duration 161 ms by bot id=8331842843
+2025-08-04 13:00:24,919 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: 123...
+2025-08-04 13:00:24,942 - utils.perplexity_client - INFO - 🔗 Пробуем новую модель 2025: sonar-pro
+2025-08-04 13:00:27,883 - utils.perplexity_client - INFO - 📡 Perplexity ответ для sonar-pro: статус 200
+2025-08-04 13:00:27,884 - utils.perplexity_client - INFO - ✅ Успешный ответ от модели 2025: sonar-pro
+2025-08-04 13:00:27,986 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 13:00:27,986 - aiogram.event - INFO - Update id=227231362 is handled. Duration 3138 ms by bot id=8331842843
+2025-08-04 13:00:40,735 - handlers.common - INFO - 📩 Пользователь 164406794 отправил: Найди рецепт борща
+2025-08-04 13:00:40,844 - aiogram.event - INFO - Update id=227231363 is handled. Duration 110 ms by bot id=8331842843
+2025-08-04 13:00:45,756 - aiogram.event - INFO - Update id=227231364 is handled. Duration 167 ms by bot id=8331842843
+2025-08-04 13:00:50,904 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: найди рецепт борща...
+2025-08-04 13:00:50,904 - utils.perplexity_client - INFO - 🔗 Пробуем новую модель 2025: sonar-pro
+2025-08-04 13:00:55,837 - utils.perplexity_client - INFO - 📡 Perplexity ответ для sonar-pro: статус 200
+2025-08-04 13:00:55,837 - utils.perplexity_client - INFO - ✅ Успешный ответ от модели 2025: sonar-pro
+2025-08-04 13:00:55,932 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 13:00:55,933 - aiogram.event - INFO - Update id=227231365 is handled. Duration 5169 ms by bot id=8331842843
+2025-08-04 13:01:42,921 - aiogram.event - INFO - Update id=227231366 is handled. Duration 145 ms by bot id=8331842843
+2025-08-04 13:01:45,649 - aiogram.event - INFO - Update id=227231367 is handled. Duration 141 ms by bot id=8331842843
+2025-08-04 13:02:01,501 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: Напиши поэтапно как приготовить борщ и его рецепт(...
+2025-08-04 13:02:01,501 - utils.perplexity_client - INFO - 🔗 Пробуем новую модель 2025: sonar-pro
+2025-08-04 13:02:06,824 - utils.perplexity_client - INFO - 📡 Perplexity ответ для sonar-pro: статус 200
+2025-08-04 13:02:06,825 - utils.perplexity_client - INFO - ✅ Успешный ответ от модели 2025: sonar-pro
+2025-08-04 13:02:06,964 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 13:02:06,965 - aiogram.event - INFO - Update id=227231368 is handled. Duration 5548 ms by bot id=8331842843
+2025-08-04 13:02:15,288 - aiogram.event - INFO - Update id=227231369 is handled. Duration 126 ms by bot id=8331842843
+2025-08-04 13:02:16,410 - aiogram.event - INFO - Update id=227231370 is handled. Duration 162 ms by bot id=8331842843
+2025-08-04 13:02:23,327 - handlers.ai_assistant - INFO - 🤖 Пользователь 164406794 задал вопрос AI: Какая сейчас погода в москве?...
+2025-08-04 13:02:23,327 - utils.perplexity_client - INFO - 🔗 Пробуем новую модель 2025: sonar-pro
+2025-08-04 13:02:27,182 - utils.perplexity_client - INFO - 📡 Perplexity ответ для sonar-pro: статус 200
+2025-08-04 13:02:27,183 - utils.perplexity_client - INFO - ✅ Успешный ответ от модели 2025: sonar-pro
+2025-08-04 13:02:27,339 - handlers.ai_assistant - INFO - ✅ AI ответ отправлен пользователю 164406794
+2025-08-04 13:02:27,340 - aiogram.event - INFO - Update id=227231371 is handled. Duration 4073 ms by bot id=8331842843
+2025-08-04 13:02:40,913 - aiogram.event - INFO - Update id=227231372 is handled. Duration 122 ms by bot id=8331842843
+2025-08-04 13:02:42,502 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:02:42,658 - aiogram.event - INFO - Update id=227231373 is handled. Duration 161 ms by bot id=8331842843
+2025-08-04 13:02:44,968 - aiogram.event - INFO - Update id=227231374 is handled. Duration 131 ms by bot id=8331842843
+2025-08-04 13:02:46,527 - database - INFO - 🗑 Удален продукт 12
+2025-08-04 13:02:46,742 - aiogram.event - INFO - Update id=227231375 is handled. Duration 218 ms by bot id=8331842843
+2025-08-04 13:02:48,296 - database - INFO - 🧹 Удалено 0 купленных товаров
+2025-08-04 13:02:48,428 - aiogram.event - INFO - Update id=227231376 is handled. Duration 136 ms by bot id=8331842843
+2025-08-04 13:02:50,694 - aiogram.event - INFO - Update id=227231377 is handled. Duration 372 ms by bot id=8331842843
+2025-08-04 13:02:53,381 - database - INFO - ➕ Добавлен продукт: Молоко (1л)
+2025-08-04 13:02:53,381 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Молоко (1л) для пользователя 164406794
+2025-08-04 13:02:53,511 - aiogram.event - INFO - Update id=227231378 is handled. Duration 134 ms by bot id=8331842843
+2025-08-04 13:02:56,373 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:02:56,505 - aiogram.event - INFO - Update id=227231379 is handled. Duration 136 ms by bot id=8331842843
+2025-08-04 13:02:57,377 - database - INFO - 🧹 Удалено 0 купленных товаров
+2025-08-04 13:02:57,430 - aiogram.event - INFO - Update id=227231380 is handled. Duration 57 ms by bot id=8331842843
