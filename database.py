@@ -64,7 +64,6 @@ class Database:
         """Добавить пользователя в систему"""
         try:
             async with aiosqlite.connect(DATABASE_URL) as db:
-                # Проверяем, существует ли пользователь
                 cursor = await db.execute(
                     'SELECT user_id FROM users WHERE user_id = ?',
                     (user_id,)
@@ -87,7 +86,6 @@ class Database:
         """Получить или создать список покупок"""
         try:
             async with aiosqlite.connect(DATABASE_URL) as db:
-                # Проверяем существующий список
                 cursor = await db.execute(
                     'SELECT id FROM shopping_lists WHERE user_id = ? AND name = ?',
                     (user_id, list_name)
@@ -97,7 +95,6 @@ class Database:
                 if result:
                     return result[0]
 
-                # Создаем новый список
                 cursor = await db.execute(
                     'INSERT INTO shopping_lists (user_id, name) VALUES (?, ?)',
                     (user_id, list_name)
@@ -125,6 +122,22 @@ class Database:
 
         except Exception as e:
             logger.error(f"❌ Ошибка добавления продукта: {e}")
+
+    @staticmethod
+    async def add_multiple_products(list_id: int, products: List[Dict[str, str]]):
+        """Добавить несколько продуктов одновременно"""
+        try:
+            async with aiosqlite.connect(DATABASE_URL) as db:
+                for product in products:
+                    await db.execute(
+                        'INSERT INTO products (list_id, name, quantity, is_bought) VALUES (?, ?, ?, 0)',
+                        (list_id, product['name'].strip(), product['quantity'].strip())
+                    )
+                await db.commit()
+                logger.info(f"➕ Добавлено {len(products)} продуктов через AI")
+
+        except Exception as e:
+            logger.error(f"❌ Ошибка добавления множественных продуктов: {e}")
 
     @staticmethod
     async def get_products(list_id: int) -> List[Dict]:
@@ -156,7 +169,6 @@ class Database:
         """Переключить статус покупки продукта"""
         try:
             async with aiosqlite.connect(DATABASE_URL) as db:
-                # Получаем текущий статус
                 cursor = await db.execute(
                     'SELECT is_bought FROM products WHERE id = ?',
                     (product_id,)
@@ -204,13 +216,27 @@ class Database:
         """Удалить все купленные продукты"""
         try:
             async with aiosqlite.connect(DATABASE_URL) as db:
+                # Сначала проверяем, есть ли купленные товары
+                cursor = await db.execute(
+                    'SELECT COUNT(*) FROM products WHERE list_id = ? AND is_bought = 1',
+                    (list_id,)
+                )
+                count_result = await cursor.fetchone()
+                bought_count = count_result[0] if count_result else 0
+
+                if bought_count == 0:
+                    logger.info(f"ℹ️ Нет купленных товаров для удаления в списке {list_id}")
+                    return 0
+
+                # Удаляем купленные товары
                 cursor = await db.execute(
                     'DELETE FROM products WHERE list_id = ? AND is_bought = 1',
                     (list_id,)
                 )
                 await db.commit()
+
                 deleted_count = cursor.rowcount
-                logger.info(f"🧹 Удалено {deleted_count} купленных товаров")
+                logger.info(f"🧹 Удалено {deleted_count} купленных товаров из списка {list_id}")
                 return deleted_count
 
         except Exception as e:
@@ -218,11 +244,42 @@ class Database:
             return 0
 
     @staticmethod
+    async def clear_all_products(list_id: int) -> int:
+        """НОВОЕ: Удалить ВСЕ продукты из списка"""
+        try:
+            async with aiosqlite.connect(DATABASE_URL) as db:
+                # Проверяем общее количество товаров
+                cursor = await db.execute(
+                    'SELECT COUNT(*) FROM products WHERE list_id = ?',
+                    (list_id,)
+                )
+                count_result = await cursor.fetchone()
+                total_count = count_result[0] if count_result else 0
+
+                if total_count == 0:
+                    logger.info(f"ℹ️ Список {list_id} уже пуст")
+                    return 0
+
+                # Удаляем ВСЕ товары
+                cursor = await db.execute(
+                    'DELETE FROM products WHERE list_id = ?',
+                    (list_id,)
+                )
+                await db.commit()
+
+                deleted_count = cursor.rowcount
+                logger.info(f"🗑 Удалено {deleted_count} товаров (весь список {list_id})")
+                return deleted_count
+
+        except Exception as e:
+            logger.error(f"❌ Ошибка очистки всего списка: {e}")
+            return 0
+
+    @staticmethod
     async def get_user_stats(user_id: int) -> Dict:
         """Получить статистику пользователя"""
         try:
             async with aiosqlite.connect(DATABASE_URL) as db:
-                # Считаем общее количество продуктов
                 cursor = await db.execute('''
                                           SELECT COUNT(*)                                       as total_products,
                                                  SUM(CASE WHEN is_bought = 1 THEN 1 ELSE 0 END) as bought_products
@@ -242,3 +299,25 @@ class Database:
         except Exception as e:
             logger.error(f"❌ Ошибка получения статистики: {e}")
             return {'total_products': 0, 'bought_products': 0, 'remaining_products': 0}
+
+    @staticmethod
+    async def mark_all_products(list_id: int, mark_as_bought: bool) -> int:
+        """НОВОЕ: Отметить все продукты как купленные или не купленные"""
+        try:
+            async with aiosqlite.connect(DATABASE_URL) as db:
+                status = 1 if mark_as_bought else 0
+
+                cursor = await db.execute(
+                    'UPDATE products SET is_bought = ? WHERE list_id = ?',
+                    (status, list_id)
+                )
+                await db.commit()
+
+                affected_count = cursor.rowcount
+                action = "отмечено как купленные" if mark_as_bought else "сняты отметки"
+                logger.info(f"📋 {action} у {affected_count} товаров в списке {list_id}")
+                return affected_count
+
+        except Exception as e:
+            logger.error(f"❌ Ошибка массовой отметки: {e}")
+            return 0

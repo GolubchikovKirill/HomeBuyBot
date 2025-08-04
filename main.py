@@ -1,13 +1,14 @@
 import asyncio
 import logging
 import sys
+import requests
 from aiogram import Bot, Dispatcher
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
 from config import BOT_TOKEN
 from database import init_db
-from handlers import start, shopping_list, ai_assistant, common
+from handlers import start, shopping_list, ai_chat  # Заменили smart_ai на ai_chat
 from utils.perplexity_client import perplexity_client
 
 # Настройка логирования
@@ -23,6 +24,24 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+def clear_webhook(token: str):
+    """Очистка webhook перед запуском polling"""
+    try:
+        url = f'https://api.telegram.org/bot{token}/deleteWebhook'
+        response = requests.post(url)
+
+        if response.status_code == 200:
+            result = response.json()
+            if result['ok']:
+                logger.info("✅ Webhook очищен для polling")
+            else:
+                logger.warning(f"⚠️ Ошибка очистки webhook: {result}")
+        else:
+            logger.warning(f"⚠️ HTTP ошибка при очистке webhook: {response.status_code}")
+    except Exception as e:
+        logger.error(f"❌ Ошибка при очистке webhook: {e}")
+
+
 async def main():
     """Главная функция запуска бота"""
 
@@ -30,7 +49,11 @@ async def main():
         logger.error("❌ BOT_TOKEN не найден! Проверьте файл .env")
         return
 
-    # Создаем бота с настройками по умолчанию
+    # Очищаем webhook перед запуском
+    logger.info("🔧 Очищаем webhook для polling...")
+    clear_webhook(BOT_TOKEN)
+
+    # Создаем бота
     bot = Bot(
         token=BOT_TOKEN,
         default=DefaultBotProperties(parse_mode=ParseMode.HTML)
@@ -39,11 +62,11 @@ async def main():
     # Создаем диспетчер
     dp = Dispatcher()
 
-    # Подключаем роутеры в правильном порядке (от специфичных к общим)
+    # ВАЖНО: Подключаем роутеры в правильном порядке
+    # ai_chat должен быть ПОСЛЕДНИМ, так как он перехватывает все текстовые сообщения
     dp.include_router(start.router)
     dp.include_router(shopping_list.router)
-    dp.include_router(ai_assistant.router)
-    dp.include_router(common.router)  # Общие обработчики в конце
+    dp.include_router(ai_chat.router)  # В конце - перехватывает все сообщения
 
     logger.info("🔗 Роутеры подключены")
 
@@ -61,10 +84,12 @@ async def main():
         await bot.set_my_commands([
             {"command": "start", "description": "🚀 Запустить бота"},
             {"command": "menu", "description": "📋 Главное меню"},
+            {"command": "cancel", "description": "🚪 Выйти из AI-чата"},
         ])
 
-        # Запускаем polling
         logger.info("🚀 Начинаем получение обновлений...")
+        logger.info("🤖 AI-чат активен! Просто пишите вопросы в чат!")
+        logger.info("📋 Команды: /menu или /cancel для выхода в главное меню")
         await dp.start_polling(bot)
 
     except Exception as e:

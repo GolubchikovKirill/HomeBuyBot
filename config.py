@@ -12,7 +12,7 @@ PERPLEXITY_API_KEY = os.getenv('PERPLEXITY_API_KEY')
 DATABASE_URL = 'shopping.db'
 
 # ID администраторов (замените на свой Telegram ID)
-ADMIN_IDS = [164406794]  # Получить свой ID: @userinfobot
+ADMIN_IDS = [164406794, 835640886]  # Получить свой ID: @userinfobot
 
 # Настройки Perplexity API
 PERPLEXITY_API_URL = 'https://api.perplexity.ai/chat/completions'
@@ -23,3 +23,5 @@ if not BOT_TOKEN:
 
 if not PERPLEXITY_API_KEY:
     print("⚠️ PERPLEXITY_API_KEY не найден - AI функции будут недоступны")
+
+DATABASE_URL = os.getenv("DATABASE_URL", "shopping.db")

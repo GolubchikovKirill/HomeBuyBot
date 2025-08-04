@@ -405,3 +405,591 @@
 2025-08-04 13:02:56,505 - aiogram.event - INFO - Update id=227231379 is handled. Duration 136 ms by bot id=8331842843
 2025-08-04 13:02:57,377 - database - INFO - 🧹 Удалено 0 купленных товаров
 2025-08-04 13:02:57,430 - aiogram.event - INFO - Update id=227231380 is handled. Duration 57 ms by bot id=8331842843
+2025-08-04 13:06:02,960 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by setWebhook request
+2025-08-04 13:06:02,961 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8331842843)
+2025-08-04 13:06:07,023 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:07,024 - aiogram.dispatcher - WARNING - Sleep for 1.076333 seconds and try again... (tryings = 1, bot id = 8331842843)
+2025-08-04 13:06:08,161 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:08,161 - aiogram.dispatcher - WARNING - Sleep for 1.421086 seconds and try again... (tryings = 2, bot id = 8331842843)
+2025-08-04 13:06:12,633 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:12,634 - aiogram.dispatcher - WARNING - Sleep for 1.872903 seconds and try again... (tryings = 3, bot id = 8331842843)
+2025-08-04 13:06:14,570 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:14,570 - aiogram.dispatcher - WARNING - Sleep for 2.358019 seconds and try again... (tryings = 4, bot id = 8331842843)
+2025-08-04 13:06:19,979 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:19,980 - aiogram.dispatcher - WARNING - Sleep for 2.991825 seconds and try again... (tryings = 5, bot id = 8331842843)
+2025-08-04 13:06:23,031 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:23,031 - aiogram.dispatcher - WARNING - Sleep for 3.858332 seconds and try again... (tryings = 6, bot id = 8331842843)
+2025-08-04 13:06:26,937 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:26,937 - aiogram.dispatcher - WARNING - Sleep for 4.872427 seconds and try again... (tryings = 7, bot id = 8331842843)
+2025-08-04 13:06:31,863 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:31,863 - aiogram.dispatcher - WARNING - Sleep for 5.060570 seconds and try again... (tryings = 8, bot id = 8331842843)
+2025-08-04 13:06:36,983 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:36,983 - aiogram.dispatcher - WARNING - Sleep for 5.119995 seconds and try again... (tryings = 9, bot id = 8331842843)
+2025-08-04 13:06:42,155 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:42,156 - aiogram.dispatcher - WARNING - Sleep for 5.073169 seconds and try again... (tryings = 10, bot id = 8331842843)
+2025-08-04 13:06:47,281 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:47,282 - aiogram.dispatcher - WARNING - Sleep for 4.983745 seconds and try again... (tryings = 11, bot id = 8331842843)
+2025-08-04 13:06:52,330 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:52,331 - aiogram.dispatcher - WARNING - Sleep for 4.896786 seconds and try again... (tryings = 12, bot id = 8331842843)
+2025-08-04 13:06:57,285 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:06:57,286 - aiogram.dispatcher - WARNING - Sleep for 4.926141 seconds and try again... (tryings = 13, bot id = 8331842843)
+2025-08-04 13:07:02,272 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:02,272 - aiogram.dispatcher - WARNING - Sleep for 4.966687 seconds and try again... (tryings = 14, bot id = 8331842843)
+2025-08-04 13:07:07,302 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:07,305 - aiogram.dispatcher - WARNING - Sleep for 4.925198 seconds and try again... (tryings = 15, bot id = 8331842843)
+2025-08-04 13:07:12,286 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:12,286 - aiogram.dispatcher - WARNING - Sleep for 5.066256 seconds and try again... (tryings = 16, bot id = 8331842843)
+2025-08-04 13:07:17,401 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:17,402 - aiogram.dispatcher - WARNING - Sleep for 4.978084 seconds and try again... (tryings = 17, bot id = 8331842843)
+2025-08-04 13:07:22,438 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:22,438 - aiogram.dispatcher - WARNING - Sleep for 4.780499 seconds and try again... (tryings = 18, bot id = 8331842843)
+2025-08-04 13:07:27,282 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:27,283 - aiogram.dispatcher - WARNING - Sleep for 5.004689 seconds and try again... (tryings = 19, bot id = 8331842843)
+2025-08-04 13:07:32,359 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:32,360 - aiogram.dispatcher - WARNING - Sleep for 5.087523 seconds and try again... (tryings = 20, bot id = 8331842843)
+2025-08-04 13:07:37,502 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:37,503 - aiogram.dispatcher - WARNING - Sleep for 5.114770 seconds and try again... (tryings = 21, bot id = 8331842843)
+2025-08-04 13:07:42,689 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:42,690 - aiogram.dispatcher - WARNING - Sleep for 5.100834 seconds and try again... (tryings = 22, bot id = 8331842843)
+2025-08-04 13:07:47,848 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:47,848 - aiogram.dispatcher - WARNING - Sleep for 5.165114 seconds and try again... (tryings = 23, bot id = 8331842843)
+2025-08-04 13:07:53,086 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:53,086 - aiogram.dispatcher - WARNING - Sleep for 4.931220 seconds and try again... (tryings = 24, bot id = 8331842843)
+2025-08-04 13:07:58,072 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:07:58,072 - aiogram.dispatcher - WARNING - Sleep for 5.180175 seconds and try again... (tryings = 25, bot id = 8331842843)
+2025-08-04 13:08:03,370 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:03,371 - aiogram.dispatcher - WARNING - Sleep for 4.841026 seconds and try again... (tryings = 26, bot id = 8331842843)
+2025-08-04 13:08:08,269 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:08,270 - aiogram.dispatcher - WARNING - Sleep for 4.993312 seconds and try again... (tryings = 27, bot id = 8331842843)
+2025-08-04 13:08:13,328 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:13,329 - aiogram.dispatcher - WARNING - Sleep for 4.850977 seconds and try again... (tryings = 28, bot id = 8331842843)
+2025-08-04 13:08:18,233 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:18,233 - aiogram.dispatcher - WARNING - Sleep for 5.067491 seconds and try again... (tryings = 29, bot id = 8331842843)
+2025-08-04 13:08:23,372 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:23,372 - aiogram.dispatcher - WARNING - Sleep for 4.792785 seconds and try again... (tryings = 30, bot id = 8331842843)
+2025-08-04 13:08:28,216 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:28,216 - aiogram.dispatcher - WARNING - Sleep for 4.850031 seconds and try again... (tryings = 31, bot id = 8331842843)
+2025-08-04 13:08:33,129 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:33,130 - aiogram.dispatcher - WARNING - Sleep for 5.097901 seconds and try again... (tryings = 32, bot id = 8331842843)
+2025-08-04 13:08:38,285 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:38,285 - aiogram.dispatcher - WARNING - Sleep for 4.972042 seconds and try again... (tryings = 33, bot id = 8331842843)
+2025-08-04 13:08:41,188 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 13:08:41,189 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:08:41,189 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 13:08:41,450 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 13:08:44,648 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 13:08:44,652 - database - INFO - ✅ База данных инициализирована
+2025-08-04 13:08:44,652 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 13:08:44,874 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 13:08:44,874 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 13:08:45,052 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 13:08:45,052 - __main__ - INFO - 🤖 AI работает автоматически - просто пишите вопросы в чат!
+2025-08-04 13:08:45,053 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 13:08:45,102 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:08:45,159 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:45,160 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8331842843)
+2025-08-04 13:08:49,223 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:49,223 - aiogram.dispatcher - WARNING - Sleep for 1.270380 seconds and try again... (tryings = 1, bot id = 8331842843)
+2025-08-04 13:08:50,559 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:50,559 - aiogram.dispatcher - WARNING - Sleep for 1.479932 seconds and try again... (tryings = 2, bot id = 8331842843)
+2025-08-04 13:08:55,172 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:55,173 - aiogram.dispatcher - WARNING - Sleep for 1.938971 seconds and try again... (tryings = 3, bot id = 8331842843)
+2025-08-04 13:08:57,176 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:08:57,176 - aiogram.dispatcher - WARNING - Sleep for 2.423780 seconds and try again... (tryings = 4, bot id = 8331842843)
+2025-08-04 13:09:02,750 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:02,751 - aiogram.dispatcher - WARNING - Sleep for 3.196773 seconds and try again... (tryings = 5, bot id = 8331842843)
+2025-08-04 13:09:06,008 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:06,008 - aiogram.dispatcher - WARNING - Sleep for 4.087437 seconds and try again... (tryings = 6, bot id = 8331842843)
+2025-08-04 13:09:10,152 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:10,152 - aiogram.dispatcher - WARNING - Sleep for 5.029217 seconds and try again... (tryings = 7, bot id = 8331842843)
+2025-08-04 13:09:15,240 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:15,241 - aiogram.dispatcher - WARNING - Sleep for 5.095684 seconds and try again... (tryings = 8, bot id = 8331842843)
+2025-08-04 13:09:20,392 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:20,392 - aiogram.dispatcher - WARNING - Sleep for 5.105867 seconds and try again... (tryings = 9, bot id = 8331842843)
+2025-08-04 13:09:25,557 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:25,558 - aiogram.dispatcher - WARNING - Sleep for 5.214422 seconds and try again... (tryings = 10, bot id = 8331842843)
+2025-08-04 13:09:30,836 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:30,837 - aiogram.dispatcher - WARNING - Sleep for 4.949065 seconds and try again... (tryings = 11, bot id = 8331842843)
+2025-08-04 13:09:35,844 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:35,845 - aiogram.dispatcher - WARNING - Sleep for 4.995121 seconds and try again... (tryings = 12, bot id = 8331842843)
+2025-08-04 13:09:40,900 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:40,900 - aiogram.dispatcher - WARNING - Sleep for 4.956737 seconds and try again... (tryings = 13, bot id = 8331842843)
+2025-08-04 13:09:45,922 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:45,922 - aiogram.dispatcher - WARNING - Sleep for 4.886861 seconds and try again... (tryings = 14, bot id = 8331842843)
+2025-08-04 13:09:50,866 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:50,868 - aiogram.dispatcher - WARNING - Sleep for 4.970180 seconds and try again... (tryings = 15, bot id = 8331842843)
+2025-08-04 13:09:55,898 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:09:55,899 - aiogram.dispatcher - WARNING - Sleep for 4.916698 seconds and try again... (tryings = 16, bot id = 8331842843)
+2025-08-04 13:10:00,884 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:00,884 - aiogram.dispatcher - WARNING - Sleep for 4.943868 seconds and try again... (tryings = 17, bot id = 8331842843)
+2025-08-04 13:10:05,889 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:05,890 - aiogram.dispatcher - WARNING - Sleep for 5.000088 seconds and try again... (tryings = 18, bot id = 8331842843)
+2025-08-04 13:10:10,947 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:10,947 - aiogram.dispatcher - WARNING - Sleep for 5.105736 seconds and try again... (tryings = 19, bot id = 8331842843)
+2025-08-04 13:10:16,115 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:16,115 - aiogram.dispatcher - WARNING - Sleep for 4.896890 seconds and try again... (tryings = 20, bot id = 8331842843)
+2025-08-04 13:10:21,071 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:21,071 - aiogram.dispatcher - WARNING - Sleep for 4.964125 seconds and try again... (tryings = 21, bot id = 8331842843)
+2025-08-04 13:10:26,102 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:26,103 - aiogram.dispatcher - WARNING - Sleep for 4.905906 seconds and try again... (tryings = 22, bot id = 8331842843)
+2025-08-04 13:10:31,094 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:31,094 - aiogram.dispatcher - WARNING - Sleep for 5.156814 seconds and try again... (tryings = 23, bot id = 8331842843)
+2025-08-04 13:10:36,308 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:36,308 - aiogram.dispatcher - WARNING - Sleep for 5.084245 seconds and try again... (tryings = 24, bot id = 8331842843)
+2025-08-04 13:10:41,444 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:41,444 - aiogram.dispatcher - WARNING - Sleep for 4.930603 seconds and try again... (tryings = 25, bot id = 8331842843)
+2025-08-04 13:10:46,436 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:46,437 - aiogram.dispatcher - WARNING - Sleep for 5.085903 seconds and try again... (tryings = 26, bot id = 8331842843)
+2025-08-04 13:10:51,579 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:51,579 - aiogram.dispatcher - WARNING - Sleep for 4.920463 seconds and try again... (tryings = 27, bot id = 8331842843)
+2025-08-04 13:10:56,556 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:10:56,557 - aiogram.dispatcher - WARNING - Sleep for 5.048175 seconds and try again... (tryings = 28, bot id = 8331842843)
+2025-08-04 13:11:01,667 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:01,667 - aiogram.dispatcher - WARNING - Sleep for 5.063957 seconds and try again... (tryings = 29, bot id = 8331842843)
+2025-08-04 13:11:06,790 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:06,790 - aiogram.dispatcher - WARNING - Sleep for 4.949599 seconds and try again... (tryings = 30, bot id = 8331842843)
+2025-08-04 13:11:11,795 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:11,795 - aiogram.dispatcher - WARNING - Sleep for 4.884071 seconds and try again... (tryings = 31, bot id = 8331842843)
+2025-08-04 13:11:16,742 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:16,743 - aiogram.dispatcher - WARNING - Sleep for 5.076728 seconds and try again... (tryings = 32, bot id = 8331842843)
+2025-08-04 13:11:21,885 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:21,885 - aiogram.dispatcher - WARNING - Sleep for 4.853123 seconds and try again... (tryings = 33, bot id = 8331842843)
+2025-08-04 13:11:26,820 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:26,821 - aiogram.dispatcher - WARNING - Sleep for 5.032450 seconds and try again... (tryings = 34, bot id = 8331842843)
+2025-08-04 13:11:31,906 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:31,906 - aiogram.dispatcher - WARNING - Sleep for 5.076549 seconds and try again... (tryings = 35, bot id = 8331842843)
+2025-08-04 13:11:37,038 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:37,038 - aiogram.dispatcher - WARNING - Sleep for 4.986096 seconds and try again... (tryings = 36, bot id = 8331842843)
+2025-08-04 13:11:42,082 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:42,082 - aiogram.dispatcher - WARNING - Sleep for 5.088223 seconds and try again... (tryings = 37, bot id = 8331842843)
+2025-08-04 13:11:47,241 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:47,242 - aiogram.dispatcher - WARNING - Sleep for 5.149131 seconds and try again... (tryings = 38, bot id = 8331842843)
+2025-08-04 13:11:52,449 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:52,449 - aiogram.dispatcher - WARNING - Sleep for 4.857724 seconds and try again... (tryings = 39, bot id = 8331842843)
+2025-08-04 13:11:57,360 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:11:57,360 - aiogram.dispatcher - WARNING - Sleep for 4.804928 seconds and try again... (tryings = 40, bot id = 8331842843)
+2025-08-04 13:12:02,231 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:02,232 - aiogram.dispatcher - WARNING - Sleep for 5.060553 seconds and try again... (tryings = 41, bot id = 8331842843)
+2025-08-04 13:12:07,355 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:07,355 - aiogram.dispatcher - WARNING - Sleep for 5.101376 seconds and try again... (tryings = 42, bot id = 8331842843)
+2025-08-04 13:12:12,508 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:12,508 - aiogram.dispatcher - WARNING - Sleep for 5.024593 seconds and try again... (tryings = 43, bot id = 8331842843)
+2025-08-04 13:12:17,593 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:17,594 - aiogram.dispatcher - WARNING - Sleep for 4.930959 seconds and try again... (tryings = 44, bot id = 8331842843)
+2025-08-04 13:12:22,587 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:22,587 - aiogram.dispatcher - WARNING - Sleep for 5.113064 seconds and try again... (tryings = 45, bot id = 8331842843)
+2025-08-04 13:12:28,118 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:28,118 - aiogram.dispatcher - WARNING - Sleep for 4.989190 seconds and try again... (tryings = 46, bot id = 8331842843)
+2025-08-04 13:12:33,173 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:33,173 - aiogram.dispatcher - WARNING - Sleep for 4.895821 seconds and try again... (tryings = 47, bot id = 8331842843)
+2025-08-04 13:12:38,140 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:38,140 - aiogram.dispatcher - WARNING - Sleep for 5.169106 seconds and try again... (tryings = 48, bot id = 8331842843)
+2025-08-04 13:12:43,369 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:43,370 - aiogram.dispatcher - WARNING - Sleep for 5.066255 seconds and try again... (tryings = 49, bot id = 8331842843)
+2025-08-04 13:12:48,499 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:48,501 - aiogram.dispatcher - WARNING - Sleep for 4.939090 seconds and try again... (tryings = 50, bot id = 8331842843)
+2025-08-04 13:12:53,492 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:53,493 - aiogram.dispatcher - WARNING - Sleep for 5.234728 seconds and try again... (tryings = 51, bot id = 8331842843)
+2025-08-04 13:12:58,789 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:12:58,790 - aiogram.dispatcher - WARNING - Sleep for 4.954915 seconds and try again... (tryings = 52, bot id = 8331842843)
+2025-08-04 13:13:03,807 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:03,807 - aiogram.dispatcher - WARNING - Sleep for 4.999098 seconds and try again... (tryings = 53, bot id = 8331842843)
+2025-08-04 13:13:08,860 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:08,861 - aiogram.dispatcher - WARNING - Sleep for 5.015775 seconds and try again... (tryings = 54, bot id = 8331842843)
+2025-08-04 13:13:13,943 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:13,943 - aiogram.dispatcher - WARNING - Sleep for 5.037785 seconds and try again... (tryings = 55, bot id = 8331842843)
+2025-08-04 13:13:19,035 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:19,036 - aiogram.dispatcher - WARNING - Sleep for 5.176550 seconds and try again... (tryings = 56, bot id = 8331842843)
+2025-08-04 13:13:24,276 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:24,276 - aiogram.dispatcher - WARNING - Sleep for 5.154082 seconds and try again... (tryings = 57, bot id = 8331842843)
+2025-08-04 13:13:26,038 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 13:13:26,039 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:13:26,039 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 13:13:26,296 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 13:13:31,837 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 13:13:31,841 - database - INFO - ✅ База данных инициализирована
+2025-08-04 13:13:31,842 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 13:13:32,041 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 13:13:32,041 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 13:13:32,184 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 13:13:32,185 - __main__ - INFO - 🤖 AI работает автоматически - просто пишите вопросы в чат!
+2025-08-04 13:13:32,185 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 13:13:32,236 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:13:32,295 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:32,295 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8331842843)
+2025-08-04 13:13:36,362 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:36,363 - aiogram.dispatcher - WARNING - Sleep for 1.200182 seconds and try again... (tryings = 1, bot id = 8331842843)
+2025-08-04 13:13:37,619 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:37,619 - aiogram.dispatcher - WARNING - Sleep for 1.552401 seconds and try again... (tryings = 2, bot id = 8331842843)
+2025-08-04 13:13:42,301 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:42,301 - aiogram.dispatcher - WARNING - Sleep for 2.091637 seconds and try again... (tryings = 3, bot id = 8331842843)
+2025-08-04 13:13:44,441 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:44,442 - aiogram.dispatcher - WARNING - Sleep for 2.738726 seconds and try again... (tryings = 4, bot id = 8331842843)
+2025-08-04 13:13:50,290 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:50,291 - aiogram.dispatcher - WARNING - Sleep for 3.554756 seconds and try again... (tryings = 5, bot id = 8331842843)
+2025-08-04 13:13:53,902 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:53,902 - aiogram.dispatcher - WARNING - Sleep for 4.499357 seconds and try again... (tryings = 6, bot id = 8331842843)
+2025-08-04 13:13:58,457 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-08-04 13:13:58,458 - aiogram.dispatcher - WARNING - Sleep for 5.176090 seconds and try again... (tryings = 7, bot id = 8331842843)
+2025-08-04 13:14:13,687 - aiogram.dispatcher - INFO - Connection established (tryings = 8, bot id = 8331842843)
+2025-08-04 13:15:04,008 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 13:15:04,009 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:15:04,010 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 13:15:04,261 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 13:15:05,535 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 13:15:05,684 - __main__ - INFO - ✅ Webhook очищен для polling
+2025-08-04 13:15:05,713 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 13:15:05,718 - database - INFO - ✅ База данных инициализирована
+2025-08-04 13:15:05,719 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 13:15:05,867 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 13:15:05,867 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 13:15:05,931 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 13:15:05,931 - __main__ - INFO - 🤖 AI работает автоматически - просто пишите вопросы в чат!
+2025-08-04 13:15:05,932 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 13:15:05,979 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:15:40,300 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 13:15:40,566 - aiogram.event - INFO - Update id=227231383 is handled. Duration 269 ms by bot id=8331842843
+2025-08-04 13:15:43,381 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:15:43,658 - aiogram.event - INFO - Update id=227231384 is handled. Duration 283 ms by bot id=8331842843
+2025-08-04 13:15:45,850 - database - INFO - ℹ️ Нет купленных товаров для удаления в списке 3
+2025-08-04 13:15:45,904 - aiogram.event - INFO - Update id=227231385 is handled. Duration 57 ms by bot id=8331842843
+2025-08-04 13:15:49,672 - aiogram.event - INFO - Update id=227231386 is handled. Duration 128 ms by bot id=8331842843
+2025-08-04 13:15:52,560 - database - INFO - ℹ️ Нет купленных товаров для удаления в списке 3
+2025-08-04 13:15:52,648 - aiogram.event - INFO - Update id=227231387 is handled. Duration 93 ms by bot id=8331842843
+2025-08-04 13:15:56,896 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:15:57,110 - aiogram.event - INFO - Update id=227231388 is handled. Duration 216 ms by bot id=8331842843
+2025-08-04 13:16:03,493 - aiogram.event - INFO - Update id=227231389 is handled. Duration 119 ms by bot id=8331842843
+2025-08-04 13:16:08,720 - aiogram.event - INFO - Update id=227231390 is handled. Duration 198 ms by bot id=8331842843
+2025-08-04 13:16:13,495 - handlers.smart_ai - INFO - 🤖 AI обрабатывает: Привет... для пользователя 164406794
+2025-08-04 13:16:13,520 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-pro
+2025-08-04 13:16:14,061 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью sonar-pro
+2025-08-04 13:16:14,061 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar
+2025-08-04 13:16:14,338 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью sonar
+2025-08-04 13:16:14,338 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-reasoning
+2025-08-04 13:16:14,500 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью sonar-reasoning
+2025-08-04 13:16:14,583 - handlers.smart_ai - INFO - ✅ AI ответ отправлен пользователю 164406794, продуктов предложено: 0
+2025-08-04 13:16:14,583 - aiogram.event - INFO - Update id=227231391 is handled. Duration 1161 ms by bot id=8331842843
+2025-08-04 13:16:48,686 - aiogram.event - INFO - Update id=227231392 is handled. Duration 156 ms by bot id=8331842843
+2025-08-04 13:16:49,995 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:16:50,158 - aiogram.event - INFO - Update id=227231393 is handled. Duration 169 ms by bot id=8331842843
+2025-08-04 13:16:51,555 - aiogram.event - INFO - Update id=227231394 is handled. Duration 240 ms by bot id=8331842843
+2025-08-04 13:16:57,049 - database - INFO - ➕ Добавлен продукт: Хлеб (2 шт)
+2025-08-04 13:16:57,049 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Хлеб (2 шт) для пользователя 164406794
+2025-08-04 13:16:57,120 - aiogram.event - INFO - Update id=227231395 is handled. Duration 81 ms by bot id=8331842843
+2025-08-04 13:16:59,175 - handlers.shopping_list - INFO - 📋 Загружено 2 продуктов для пользователя 164406794
+2025-08-04 13:16:59,313 - aiogram.event - INFO - Update id=227231396 is handled. Duration 140 ms by bot id=8331842843
+2025-08-04 13:17:01,021 - database - INFO - ℹ️ Нет купленных товаров для удаления в списке 3
+2025-08-04 13:17:01,077 - aiogram.event - INFO - Update id=227231397 is handled. Duration 60 ms by bot id=8331842843
+2025-08-04 13:17:03,803 - aiogram.event - INFO - Update id=227231398 is handled. Duration 141 ms by bot id=8331842843
+2025-08-04 13:17:04,999 - handlers.shopping_list - INFO - 📋 Загружено 2 продуктов для пользователя 164406794
+2025-08-04 13:17:05,135 - aiogram.event - INFO - Update id=227231399 is handled. Duration 138 ms by bot id=8331842843
+2025-08-04 13:17:05,946 - aiogram.event - INFO - Update id=227231400 is handled. Duration 125 ms by bot id=8331842843
+2025-08-04 13:17:08,436 - aiogram.event - INFO - Update id=227231401 is handled. Duration 193 ms by bot id=8331842843
+2025-08-04 13:17:10,985 - handlers.smart_ai - INFO - 🤖 AI обрабатывает: 123... для пользователя 164406794
+2025-08-04 13:17:10,986 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-pro
+2025-08-04 13:17:11,540 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью sonar-pro
+2025-08-04 13:17:11,540 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar
+2025-08-04 13:17:11,818 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью sonar
+2025-08-04 13:17:11,818 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-reasoning
+2025-08-04 13:17:11,963 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью sonar-reasoning
+2025-08-04 13:17:12,168 - handlers.smart_ai - INFO - ✅ AI ответ отправлен пользователю 164406794, продуктов предложено: 0
+2025-08-04 13:17:12,168 - aiogram.event - INFO - Update id=227231402 is handled. Duration 1290 ms by bot id=8331842843
+2025-08-04 13:19:57,796 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 13:19:57,803 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:19:57,803 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 13:19:58,065 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 13:20:03,477 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 13:20:03,712 - __main__ - INFO - ✅ Webhook очищен для polling
+2025-08-04 13:20:03,743 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 13:20:03,749 - database - INFO - ✅ База данных инициализирована
+2025-08-04 13:20:03,749 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 13:20:03,905 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 13:20:03,905 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 13:20:03,969 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 13:20:03,979 - __main__ - INFO - 🤖 AI работает автоматически - просто пишите вопросы в чат!
+2025-08-04 13:20:03,979 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 13:20:04,032 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:20:11,556 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 13:20:11,737 - aiogram.event - INFO - Update id=227231403 is handled. Duration 183 ms by bot id=8331842843
+2025-08-04 13:20:18,236 - handlers.shopping_list - INFO - 📋 Загружено 2 продуктов для пользователя 164406794
+2025-08-04 13:20:18,502 - aiogram.event - INFO - Update id=227231404 is handled. Duration 270 ms by bot id=8331842843
+2025-08-04 13:20:20,392 - aiogram.event - INFO - Update id=227231405 is handled. Duration 136 ms by bot id=8331842843
+2025-08-04 13:20:27,244 - database - INFO - ℹ️ Нет купленных товаров для удаления в списке 3
+2025-08-04 13:20:27,313 - aiogram.event - INFO - Update id=227231406 is handled. Duration 72 ms by bot id=8331842843
+2025-08-04 13:20:29,717 - database - INFO - 🗑 Удалено 2 товаров (весь список 3)
+2025-08-04 13:20:29,778 - handlers.shopping_list - INFO - 🗑 Пользователь 164406794 очистил весь список (2 товаров)
+2025-08-04 13:20:29,848 - aiogram.event - INFO - Update id=227231407 is handled. Duration 137 ms by bot id=8331842843
+2025-08-04 13:20:33,592 - aiogram.event - INFO - Update id=227231408 is handled. Duration 131 ms by bot id=8331842843
+2025-08-04 13:20:34,376 - handlers.shopping_list - INFO - 📋 Загружено 0 продуктов для пользователя 164406794
+2025-08-04 13:20:34,548 - aiogram.event - INFO - Update id=227231409 is handled. Duration 175 ms by bot id=8331842843
+2025-08-04 13:20:36,847 - aiogram.event - INFO - Update id=227231410 is handled. Duration 242 ms by bot id=8331842843
+2025-08-04 13:20:40,050 - aiogram.event - INFO - Update id=227231411 is handled. Duration 131 ms by bot id=8331842843
+2025-08-04 13:20:44,158 - database - INFO - ➕ Добавлен продукт: Молоко (1л)
+2025-08-04 13:20:44,158 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Молоко (1л) для пользователя 164406794
+2025-08-04 13:20:44,314 - aiogram.event - INFO - Update id=227231412 is handled. Duration 164 ms by bot id=8331842843
+2025-08-04 13:20:46,387 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:20:46,518 - aiogram.event - INFO - Update id=227231413 is handled. Duration 135 ms by bot id=8331842843
+2025-08-04 13:20:48,363 - aiogram.event - INFO - Update id=227231414 is handled. Duration 200 ms by bot id=8331842843
+2025-08-04 13:20:54,294 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:20:54,415 - aiogram.event - INFO - Update id=227231415 is handled. Duration 124 ms by bot id=8331842843
+2025-08-04 13:20:56,860 - aiogram.event - INFO - Update id=227231416 is handled. Duration 143 ms by bot id=8331842843
+2025-08-04 13:20:58,772 - aiogram.event - INFO - Update id=227231417 is handled. Duration 174 ms by bot id=8331842843
+2025-08-04 13:21:01,229 - handlers.smart_ai - INFO - 🤖 AI обрабатывает: 123... для пользователя 164406794
+2025-08-04 13:21:01,261 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-small-128k-online
+2025-08-04 13:21:01,535 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-small-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-online'. Permitted models can be foun
+2025-08-04 13:21:01,535 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-large-128k-online
+2025-08-04 13:21:01,692 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-large-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-large-128k-online'. Permitted models can be foun
+2025-08-04 13:21:01,693 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-huge-128k-online
+2025-08-04 13:21:01,843 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-huge-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-huge-128k-online'. Permitted models can be found
+2025-08-04 13:21:01,843 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-8b-instruct
+2025-08-04 13:21:01,999 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-8b-instruct: {"error":{"message":"Invalid model 'llama-3.1-8b-instruct'. Permitted models can be found in the doc
+2025-08-04 13:21:02,000 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: mixtral-8x7b-instruct
+2025-08-04 13:21:02,238 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью mixtral-8x7b-instruct: {"error":{"message":"Invalid model 'mixtral-8x7b-instruct'. Permitted models can be found in the doc
+2025-08-04 13:21:02,359 - handlers.smart_ai - INFO - ✅ AI ответ отправлен пользователю 164406794, продуктов предложено: 0
+2025-08-04 13:21:02,360 - aiogram.event - INFO - Update id=227231418 is handled. Duration 1209 ms by bot id=8331842843
+2025-08-04 13:21:21,068 - aiogram.event - INFO - Update id=227231419 is handled. Duration 156 ms by bot id=8331842843
+2025-08-04 13:21:25,018 - aiogram.event - INFO - Update id=227231420 is handled. Duration 101 ms by bot id=8331842843
+2025-08-04 13:25:59,327 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 13:25:59,408 - aiogram.event - INFO - Update id=227231421 is handled. Duration 85 ms by bot id=8331842843
+2025-08-04 13:26:00,879 - aiogram.event - INFO - Update id=227231422 is handled. Duration 172 ms by bot id=8331842843
+2025-08-04 13:26:04,619 - handlers.smart_ai - INFO - 🤖 AI обрабатывает: Борщ... для пользователя 164406794
+2025-08-04 13:26:04,619 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-small-128k-online
+2025-08-04 13:26:04,888 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-small-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-online'. Permitted models can be foun
+2025-08-04 13:26:04,888 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-large-128k-online
+2025-08-04 13:26:05,045 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-large-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-large-128k-online'. Permitted models can be foun
+2025-08-04 13:26:05,046 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-huge-128k-online
+2025-08-04 13:26:05,207 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-huge-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-huge-128k-online'. Permitted models can be found
+2025-08-04 13:26:05,208 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-8b-instruct
+2025-08-04 13:26:05,359 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-8b-instruct: {"error":{"message":"Invalid model 'llama-3.1-8b-instruct'. Permitted models can be found in the doc
+2025-08-04 13:26:05,360 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: mixtral-8x7b-instruct
+2025-08-04 13:26:05,513 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью mixtral-8x7b-instruct: {"error":{"message":"Invalid model 'mixtral-8x7b-instruct'. Permitted models can be found in the doc
+2025-08-04 13:26:05,604 - handlers.smart_ai - INFO - ✅ AI ответ отправлен пользователю 164406794, продуктов предложено: 0
+2025-08-04 13:26:05,605 - aiogram.event - INFO - Update id=227231423 is handled. Duration 1055 ms by bot id=8331842843
+2025-08-04 13:26:14,254 - aiogram.event - INFO - Update id=227231424 is handled. Duration 235 ms by bot id=8331842843
+2025-08-04 13:26:17,756 - aiogram.event - INFO - Update id=227231425 is handled. Duration 153 ms by bot id=8331842843
+2025-08-04 13:26:21,385 - handlers.smart_ai - INFO - 🤖 AI обрабатывает: Погода... для пользователя 164406794
+2025-08-04 13:26:21,386 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-small-128k-online
+2025-08-04 13:26:21,665 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-small-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-small-128k-online'. Permitted models can be foun
+2025-08-04 13:26:21,665 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-large-128k-online
+2025-08-04 13:26:21,825 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-large-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-large-128k-online'. Permitted models can be foun
+2025-08-04 13:26:21,825 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-sonar-huge-128k-online
+2025-08-04 13:26:21,982 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-sonar-huge-128k-online: {"error":{"message":"Invalid model 'llama-3.1-sonar-huge-128k-online'. Permitted models can be found
+2025-08-04 13:26:21,983 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: llama-3.1-8b-instruct
+2025-08-04 13:26:22,146 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью llama-3.1-8b-instruct: {"error":{"message":"Invalid model 'llama-3.1-8b-instruct'. Permitted models can be found in the doc
+2025-08-04 13:26:22,147 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: mixtral-8x7b-instruct
+2025-08-04 13:26:22,300 - utils.perplexity_client - WARNING - ❌ Ошибка 400 с моделью mixtral-8x7b-instruct: {"error":{"message":"Invalid model 'mixtral-8x7b-instruct'. Permitted models can be found in the doc
+2025-08-04 13:26:22,460 - handlers.smart_ai - INFO - ✅ AI ответ отправлен пользователю 164406794, продуктов предложено: 0
+2025-08-04 13:26:22,461 - aiogram.event - INFO - Update id=227231426 is handled. Duration 1172 ms by bot id=8331842843
+2025-08-04 13:27:11,518 - aiogram.event - INFO - Update id=227231427 is handled. Duration 155 ms by bot id=8331842843
+2025-08-04 13:27:12,816 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:27:13,070 - aiogram.event - INFO - Update id=227231428 is handled. Duration 261 ms by bot id=8331842843
+2025-08-04 13:27:17,669 - aiogram.event - INFO - Update id=227231429 is handled. Duration 126 ms by bot id=8331842843
+2025-08-04 13:27:24,168 - database - INFO - 🗑 Удален продукт 15
+2025-08-04 13:27:24,367 - aiogram.event - INFO - Update id=227231430 is handled. Duration 204 ms by bot id=8331842843
+2025-08-04 13:27:25,851 - aiogram.event - INFO - Update id=227231431 is handled. Duration 128 ms by bot id=8331842843
+2025-08-04 13:27:32,247 - database - INFO - ➕ Добавлен продукт: Хлеб (1)
+2025-08-04 13:27:32,248 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Хлеб (1) для пользователя 164406794
+2025-08-04 13:27:32,322 - aiogram.event - INFO - Update id=227231432 is handled. Duration 86 ms by bot id=8331842843
+2025-08-04 13:27:35,514 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:27:35,715 - aiogram.event - INFO - Update id=227231433 is handled. Duration 208 ms by bot id=8331842843
+2025-08-04 13:34:21,417 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 13:34:21,422 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:34:21,423 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 13:34:21,688 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 13:34:25,102 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 13:34:25,318 - __main__ - INFO - ✅ Webhook очищен для polling
+2025-08-04 13:34:25,344 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 13:34:25,349 - database - INFO - ✅ База данных инициализирована
+2025-08-04 13:34:25,349 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 13:34:25,502 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 13:34:25,502 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 13:34:25,560 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 13:34:25,560 - __main__ - INFO - 🤖 AI работает автоматически - просто пишите вопросы в чат!
+2025-08-04 13:34:25,560 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 13:34:25,613 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:34:33,323 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 13:34:33,611 - aiogram.event - INFO - Update id=227231434 is handled. Duration 290 ms by bot id=8331842843
+2025-08-04 13:34:34,894 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:34:35,080 - aiogram.event - INFO - Update id=227231435 is handled. Duration 192 ms by bot id=8331842843
+2025-08-04 13:34:37,451 - aiogram.event - INFO - Update id=227231436 is handled. Duration 265 ms by bot id=8331842843
+2025-08-04 13:34:38,549 - database - INFO - 🔄 Изменен статус продукта 16 на True
+2025-08-04 13:34:38,876 - aiogram.event - INFO - Update id=227231437 is handled. Duration 332 ms by bot id=8331842843
+2025-08-04 13:34:41,615 - handlers.shopping_list - INFO - 📋 Загружено 1 продуктов для пользователя 164406794
+2025-08-04 13:34:41,995 - aiogram.event - INFO - Update id=227231438 is handled. Duration 393 ms by bot id=8331842843
+2025-08-04 13:34:43,548 - aiogram.event - INFO - Update id=227231439 is handled. Duration 140 ms by bot id=8331842843
+2025-08-04 13:34:45,515 - database - INFO - 🗑 Удалено 1 товаров (весь список 3)
+2025-08-04 13:34:45,582 - handlers.shopping_list - INFO - 🗑 Пользователь 164406794 очистил весь список (1 товаров)
+2025-08-04 13:34:45,662 - aiogram.event - INFO - Update id=227231440 is handled. Duration 154 ms by bot id=8331842843
+2025-08-04 13:34:48,746 - aiogram.event - INFO - Update id=227231441 is handled. Duration 137 ms by bot id=8331842843
+2025-08-04 13:34:49,943 - aiogram.event - INFO - Update id=227231442 is handled. Duration 196 ms by bot id=8331842843
+2025-08-04 13:34:52,476 - handlers.smart_ai - INFO - 🤖 AI обрабатывает: 123... для пользователя 164406794
+2025-08-04 13:34:52,505 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-pro
+2025-08-04 13:35:11,488 - utils.perplexity_client - INFO - ✅ Умный ответ от sonar-pro, найдено продуктов: 3
+2025-08-04 13:35:11,645 - handlers.smart_ai - INFO - ✅ AI ответ отправлен пользователю 164406794, продуктов предложено: 3
+2025-08-04 13:35:11,646 - aiogram.event - INFO - Update id=227231443 is handled. Duration 19244 ms by bot id=8331842843
+2025-08-04 13:36:02,620 - aiogram.event - INFO - Update id=227231444 is handled. Duration 233 ms by bot id=8331842843
+2025-08-04 13:36:07,577 - handlers.smart_ai - INFO - 🤖 AI обрабатывает: Погода в москве... для пользователя 164406794
+2025-08-04 13:36:07,578 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-pro
+2025-08-04 13:36:21,884 - utils.perplexity_client - INFO - ✅ Умный ответ от sonar-pro, найдено продуктов: 0
+2025-08-04 13:36:22,019 - handlers.smart_ai - INFO - ✅ AI ответ отправлен пользователю 164406794, продуктов предложено: 0
+2025-08-04 13:36:22,019 - aiogram.event - INFO - Update id=227231445 is handled. Duration 14583 ms by bot id=8331842843
+2025-08-04 13:36:41,372 - aiogram.event - INFO - Update id=227231446 is handled. Duration 95 ms by bot id=8331842843
+2025-08-04 13:36:49,188 - aiogram.event - INFO - Update id=227231447 is handled. Duration 93 ms by bot id=8331842843
+2025-08-04 13:38:40,922 - aiogram.event - INFO - Update id=227231448 is handled. Duration 399 ms by bot id=8331842843
+2025-08-04 13:38:48,184 - handlers.smart_ai - INFO - 🤖 AI обрабатывает: Основы пайтон... для пользователя 164406794
+2025-08-04 13:38:48,184 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-pro
+2025-08-04 13:39:04,634 - utils.perplexity_client - INFO - ✅ Умный ответ от sonar-pro, найдено продуктов: 0
+2025-08-04 13:39:04,836 - handlers.smart_ai - INFO - ✅ AI ответ отправлен пользователю 164406794, продуктов предложено: 0
+2025-08-04 13:39:04,838 - aiogram.event - INFO - Update id=227231449 is handled. Duration 16755 ms by bot id=8331842843
+2025-08-04 13:40:33,841 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 13:40:33,847 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 13:40:33,848 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 13:40:34,106 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 13:47:07,290 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 13:47:48,397 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 13:47:48,548 - __main__ - INFO - ✅ Webhook очищен для polling
+2025-08-04 13:47:48,572 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 13:47:48,577 - database - INFO - ✅ База данных инициализирована
+2025-08-04 13:47:48,577 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 13:48:48,586 - __main__ - ERROR - ❌ Критическая ошибка при запуске: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [None]
+2025-08-04 13:48:48,840 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 14:02:57,171 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 14:02:57,329 - __main__ - INFO - ✅ Webhook очищен для polling
+2025-08-04 14:02:57,367 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 14:02:57,371 - database - INFO - ✅ База данных инициализирована
+2025-08-04 14:02:57,371 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 14:02:57,514 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 14:02:57,515 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 14:02:57,579 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 14:02:57,579 - __main__ - INFO - 🤖 AI-чат активен! Просто пишите вопросы в чат!
+2025-08-04 14:02:57,579 - __main__ - INFO - 📋 Команды: /menu или /cancel для выхода в главное меню
+2025-08-04 14:02:57,579 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 14:02:57,631 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 14:02:57,692 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 14:02:57,692 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 14:02:57,860 - aiogram.event - INFO - Update id=227231451 is handled. Duration 169 ms by bot id=8331842843
+2025-08-04 14:02:57,880 - aiogram.event - INFO - Update id=227231450 is handled. Duration 189 ms by bot id=8331842843
+2025-08-04 14:03:08,844 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 14:03:08,926 - aiogram.event - INFO - Update id=227231452 is handled. Duration 85 ms by bot id=8331842843
+2025-08-04 14:03:20,734 - handlers.ai_chat - INFO - 🤖 AI чат - пользователь 164406794: Борщ...
+2025-08-04 14:03:20,762 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-pro
+2025-08-04 14:03:33,641 - utils.perplexity_client - INFO - ✅ Умный ответ от sonar-pro, найдено продуктов: 1
+2025-08-04 14:03:33,736 - handlers.ai_chat - INFO - ✅ AI чат ответ отправлен пользователю 164406794
+2025-08-04 14:03:33,736 - aiogram.event - INFO - Update id=227231453 is handled. Duration 13079 ms by bot id=8331842843
+2025-08-04 14:03:38,398 - aiogram.event - INFO - Update id=227231454 is handled. Duration 259 ms by bot id=8331842843
+2025-08-04 14:03:54,265 - aiogram.event - INFO - Update id=227231455 is not handled. Duration 3 ms by bot id=8331842843
+2025-08-04 14:04:02,755 - handlers.ai_chat - INFO - 🚪 Пользователь 164406794 вышел из AI чата через кнопку
+2025-08-04 14:04:02,756 - aiogram.event - INFO - Update id=227231456 is handled. Duration 123 ms by bot id=8331842843
+2025-08-04 14:04:04,280 - handlers.shopping_list - INFO - 📋 Загружено 0 продуктов для пользователя 164406794
+2025-08-04 14:04:04,401 - aiogram.event - INFO - Update id=227231457 is handled. Duration 126 ms by bot id=8331842843
+2025-08-04 14:04:07,644 - aiogram.event - INFO - Update id=227231458 is handled. Duration 187 ms by bot id=8331842843
+2025-08-04 14:04:11,792 - database - INFO - ➕ Добавлен продукт: Молоко (1л)
+2025-08-04 14:04:11,793 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Молоко (1л) для пользователя 164406794
+2025-08-04 14:04:11,868 - aiogram.event - INFO - Update id=227231459 is handled. Duration 82 ms by bot id=8331842843
+2025-08-04 14:04:15,087 - aiogram.event - INFO - Update id=227231460 is handled. Duration 181 ms by bot id=8331842843
+2025-08-04 14:04:20,641 - database - INFO - ➕ Добавлен продукт: Хлеб (1шт)
+2025-08-04 14:04:20,642 - handlers.shopping_list - INFO - ➕ Продукт добавлен: Хлеб (1шт) для пользователя 164406794
+2025-08-04 14:04:20,716 - aiogram.event - INFO - Update id=227231461 is handled. Duration 88 ms by bot id=8331842843
+2025-08-04 14:04:22,302 - handlers.shopping_list - INFO - 📋 Загружено 2 продуктов для пользователя 164406794
+2025-08-04 14:04:22,481 - aiogram.event - INFO - Update id=227231462 is handled. Duration 183 ms by bot id=8331842843
+2025-08-04 14:04:27,428 - database - INFO - 🔄 Изменен статус продукта 18 на True
+2025-08-04 14:04:27,501 - handlers.shopping_list - INFO - 📋 Загружено 2 продуктов для пользователя 164406794
+2025-08-04 14:04:27,638 - aiogram.event - INFO - Update id=227231463 is handled. Duration 213 ms by bot id=8331842843
+2025-08-04 14:04:29,444 - database - INFO - 🔄 Изменен статус продукта 17 на True
+2025-08-04 14:04:29,502 - handlers.shopping_list - INFO - 📋 Загружено 2 продуктов для пользователя 164406794
+2025-08-04 14:04:29,637 - aiogram.event - INFO - Update id=227231464 is handled. Duration 198 ms by bot id=8331842843
+2025-08-04 14:04:31,550 - aiogram.event - INFO - Update id=227231465 is handled. Duration 126 ms by bot id=8331842843
+2025-08-04 14:04:35,088 - handlers.shopping_list - INFO - 📋 Загружено 2 продуктов для пользователя 164406794
+2025-08-04 14:04:35,363 - aiogram.event - INFO - Update id=227231466 is handled. Duration 278 ms by bot id=8331842843
+2025-08-04 14:04:37,457 - aiogram.event - INFO - Update id=227231467 is handled. Duration 168 ms by bot id=8331842843
+2025-08-04 14:04:39,933 - database - INFO - 🗑 Удалено 2 товаров (весь список 3)
+2025-08-04 14:04:40,053 - handlers.shopping_list - INFO - 🗑 Пользователь 164406794 очистил весь список (2 товаров)
+2025-08-04 14:04:40,160 - aiogram.event - INFO - Update id=227231468 is handled. Duration 234 ms by bot id=8331842843
+2025-08-04 14:04:43,490 - aiogram.event - INFO - Update id=227231469 is handled. Duration 351 ms by bot id=8331842843
+2025-08-04 14:04:44,502 - aiogram.event - INFO - Update id=227231470 is handled. Duration 156 ms by bot id=8331842843
+2025-08-04 14:05:20,737 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 14:05:20,739 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 14:05:20,739 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 14:05:20,994 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 14:05:23,402 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 14:05:23,565 - __main__ - INFO - ✅ Webhook очищен для polling
+2025-08-04 14:05:23,581 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 14:05:23,582 - database - INFO - ✅ База данных инициализирована
+2025-08-04 14:05:23,582 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 14:05:23,722 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 14:05:23,722 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 14:05:23,812 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 14:05:23,812 - __main__ - INFO - 🤖 AI-чат активен! Просто пишите вопросы в чат!
+2025-08-04 14:05:23,812 - __main__ - INFO - 📋 Команды: /menu или /cancel для выхода в главное меню
+2025-08-04 14:05:23,812 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 14:05:23,857 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 14:05:26,999 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 14:05:27,171 - aiogram.event - INFO - Update id=227231471 is handled. Duration 174 ms by bot id=8331842843
+2025-08-04 14:05:28,945 - aiogram.event - INFO - Update id=227231472 is handled. Duration 223 ms by bot id=8331842843
+2025-08-04 14:06:34,319 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 14:06:34,323 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 14:06:34,323 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 14:06:34,575 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 14:06:35,848 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 14:06:35,991 - __main__ - INFO - ✅ Webhook очищен для polling
+2025-08-04 14:06:36,018 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 14:06:36,019 - database - INFO - ✅ База данных инициализирована
+2025-08-04 14:06:36,019 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 14:06:36,161 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 14:06:36,162 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 14:06:36,348 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 14:06:36,349 - __main__ - INFO - 🤖 AI-чат активен! Просто пишите вопросы в чат!
+2025-08-04 14:06:36,349 - __main__ - INFO - 📋 Команды: /menu или /cancel для выхода в главное меню
+2025-08-04 14:06:36,349 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 14:06:36,398 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 14:06:43,006 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 14:06:43,008 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 14:06:43,008 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 14:06:43,260 - __main__ - INFO - 🛑 Бот остановлен
+2025-08-04 14:06:44,551 - __main__ - INFO - 🔧 Очищаем webhook для polling...
+2025-08-04 14:06:44,705 - __main__ - INFO - ✅ Webhook очищен для polling
+2025-08-04 14:06:44,727 - __main__ - INFO - 🔗 Роутеры подключены
+2025-08-04 14:06:44,728 - database - INFO - ✅ База данных инициализирована
+2025-08-04 14:06:44,728 - __main__ - INFO - 💾 База данных инициализирована
+2025-08-04 14:06:44,869 - __main__ - INFO - 🤖 Бот запущен: @home_buy_humanBot
+2025-08-04 14:06:44,869 - __main__ - INFO - 📋 ID бота: 8331842843
+2025-08-04 14:06:45,030 - __main__ - INFO - 🚀 Начинаем получение обновлений...
+2025-08-04 14:06:45,030 - __main__ - INFO - 🤖 AI-чат активен! Просто пишите вопросы в чат!
+2025-08-04 14:06:45,030 - __main__ - INFO - 📋 Команды: /menu или /cancel для выхода в главное меню
+2025-08-04 14:06:45,031 - aiogram.dispatcher - INFO - Start polling
+2025-08-04 14:06:45,075 - aiogram.dispatcher - INFO - Run polling for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 14:06:49,556 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 14:06:49,743 - aiogram.event - INFO - Update id=227231473 is handled. Duration 188 ms by bot id=8331842843
+2025-08-04 14:06:56,275 - aiogram.event - INFO - Update id=227231474 is handled. Duration 347 ms by bot id=8331842843
+2025-08-04 14:07:02,983 - handlers.shopping_list - INFO - 📋 Загружено 0 продуктов для пользователя 164406794
+2025-08-04 14:07:03,129 - aiogram.event - INFO - Update id=227231475 is handled. Duration 156 ms by bot id=8331842843
+2025-08-04 14:07:06,041 - aiogram.event - INFO - Update id=227231476 is handled. Duration 127 ms by bot id=8331842843
+2025-08-04 14:07:08,435 - aiogram.event - INFO - Update id=227231477 is handled. Duration 130 ms by bot id=8331842843
+2025-08-04 14:07:12,659 - handlers.start - INFO - 👋 Пользователь 164406794 (Кирилл) запустил бота
+2025-08-04 14:07:12,822 - aiogram.event - INFO - Update id=227231478 is handled. Duration 164 ms by bot id=8331842843
+2025-08-04 14:07:15,584 - aiogram.event - INFO - Update id=227231479 is handled. Duration 163 ms by bot id=8331842843
+2025-08-04 14:14:23,328 - handlers.ai_chat - INFO - 🤖 AI чат - пользователь 164406794: Когда закончится дождь в Москве?...
+2025-08-04 14:14:23,367 - utils.perplexity_client - INFO - 🔗 Запрос к умному AI: sonar-pro
+2025-08-04 14:14:33,465 - utils.perplexity_client - INFO - ✅ Умный ответ от sonar-pro, найдено продуктов: 1
+2025-08-04 14:14:33,602 - handlers.ai_chat - INFO - ✅ AI чат ответ отправлен пользователю 164406794
+2025-08-04 14:14:33,602 - aiogram.event - INFO - Update id=227231480 is handled. Duration 10378 ms by bot id=8331842843
+2025-08-04 14:16:11,891 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-04 14:16:11,894 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8331842843)
+2025-08-04 14:16:17,031 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-04 14:16:17,032 - aiogram.dispatcher - WARNING - Sleep for 1.291952 seconds and try again... (tryings = 1, bot id = 8331842843)
+2025-08-04 14:16:22,783 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-04 14:16:22,784 - aiogram.dispatcher - WARNING - Sleep for 1.664773 seconds and try again... (tryings = 2, bot id = 8331842843)
+2025-08-04 14:16:29,355 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-04 14:16:29,356 - aiogram.dispatcher - WARNING - Sleep for 2.100243 seconds and try again... (tryings = 3, bot id = 8331842843)
+2025-08-04 14:16:36,690 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-04 14:16:36,695 - aiogram.dispatcher - WARNING - Sleep for 2.752157 seconds and try again... (tryings = 4, bot id = 8331842843)
+2025-08-04 14:16:45,231 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-04 14:16:45,232 - aiogram.dispatcher - WARNING - Sleep for 3.528948 seconds and try again... (tryings = 5, bot id = 8331842843)
+2025-08-04 14:16:52,410 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-04 14:16:52,411 - aiogram.dispatcher - WARNING - Sleep for 4.613050 seconds and try again... (tryings = 6, bot id = 8331842843)
+2025-08-04 14:17:01,140 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-04 14:17:01,140 - aiogram.dispatcher - WARNING - Sleep for 5.076339 seconds and try again... (tryings = 7, bot id = 8331842843)
+2025-08-04 14:17:08,393 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-08-04 14:17:08,403 - aiogram.dispatcher - INFO - Polling stopped for bot @home_buy_humanBot id=8331842843 - 'HomeBuyBot'
+2025-08-04 14:17:08,403 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 14:17:08,671 - __main__ - INFO - 🛑 Бот остановлен
